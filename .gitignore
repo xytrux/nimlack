@@ -1,2 +1,5 @@
+# Ignore the executable file
 bl.exe
+
+# Ignore the input file
 input.bl
